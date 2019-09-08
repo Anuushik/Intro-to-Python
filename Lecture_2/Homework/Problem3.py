@@ -14,4 +14,4 @@ if args.word1:
    print("First word: ", args.word1)
 if args.word2:
    print("Second word: ", args.word2)
-print("Final: ", args.text.replace(args.word1, args.word2))
+   print("Final: ", args.text.replace(args.word1, args.word2))

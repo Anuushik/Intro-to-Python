@@ -1,0 +1,1 @@
+ list1=['al', 'abc', 'xyz', 'as', 'aba','1221']
